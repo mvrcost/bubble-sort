@@ -22,3 +22,6 @@ PARTICIPANTES - Uma lista de tuplas, não ordenada, com as cadeiras participante
 Uma mensagem com as informações do vencedor:
 
 "O vencedor está na fila {NOME_DA_FILA} poltrona {NÚMERO_DA_POLTRONA}!"
+
+<img width="330" alt="Capturar" src="https://github.com/mvrcost/bubble-sort/assets/131052793/794e9471-c2e1-4b3c-bd51-583dfd1b40cc">
+
